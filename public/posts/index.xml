@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on suchstance</title>
-    <link>https://suchstance.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on suchstance</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://suchstance.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Old King&#39;s Crown</title>
-      <link>https://suchstance.github.io/posts/the-old-kings-crown/</link>
+      <link>http://localhost:1313/posts/the-old-kings-crown/</link>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://suchstance.github.io/posts/the-old-kings-crown/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;The Old King&amp;rsquo;s Crown&amp;rdquo;&#xA;url: &amp;ldquo;&lt;a href=&#34;https://boardgamegeek.com/boardgame/357873/the-old-kings-crown%22&#34;&gt;https://boardgamegeek.com/boardgame/357873/the-old-kings-crown&amp;quot;&lt;/a&gt;&#xA;date: 2026-04-25&#xA;&amp;ldquo;first review&amp;rdquo;: 5&#xA;&amp;ldquo;later review&amp;rdquo;:&#xA;buy: true&#xA;MoC: &amp;ldquo;[[Board Games]]&amp;rdquo;&#xA;image:&lt;/p&gt;&#xA;&lt;p&gt;![image description] (&lt;a href=&#34;https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ&#34;&gt;https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ&lt;/a&gt;__opengraph/img/CN-wLOteg6hzQwUbYNmS2QreXcc=/0x248:2964x1804/fit-in/1200x630/filters:strip_icc()/pic8937255.jpg)&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;Out-manoeuvre your rivals as you vie for control of an ancient, crumbling kingdom.&lt;/p&gt;&#xA;&lt;h2 id=&#34;first-played&#34;&gt;First Played&lt;/h2&gt;&#xA;&lt;p&gt;Date: 2026-04-25&lt;/p&gt;&#xA;&lt;p&gt;Player Number: 4&lt;/p&gt;&#xA;&lt;p&gt;Host: Kevin, Nick&lt;/p&gt;&#xA;&lt;h3 id=&#34;first-impressions&#34;&gt;First Impressions&lt;/h3&gt;&#xA;&lt;p&gt;great game. I played very conservatively but iloved how meaty the action gets and how interactive it is. I am more curious about learning the strategy than winning at this&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/the-old-kings-crown/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/TOKC.webp&#34; alt=&#34;The Old King&#39;s Crown&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Out-manoeuvre your rivals as you vie for control of an ancient, crumbling kingdom.&lt;/p&gt;&#xA;&lt;h4 id=&#34;first-played&#34;&gt;First Played&lt;/h4&gt;&#xA;&lt;p&gt;Date: 2026-04-25&lt;/p&gt;&#xA;&lt;p&gt;Player Number: 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;first-impressions&#34;&gt;First Impressions&lt;/h2&gt;&#xA;&lt;p&gt;Great game. I played very conservatively but I loved how meaty the action gets and how interactive it is. I am more curious about learning the strategy than winning at this.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
