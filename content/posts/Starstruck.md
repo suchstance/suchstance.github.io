@@ -18,4 +18,4 @@ April 8 2024 is ingrained, burnt into my eyes. Witnessing a solar eclipse is eas
 Every time I look at it, it makes me smile. 
 
 
-<img src= "/2024 April Solar Eclipse.webp" alt="description of image" style="width: 100%; height: auto;">
+<img src="/2024-april-solar-eclipse.png" alt="Progression of 2024's Solar Eclipse">

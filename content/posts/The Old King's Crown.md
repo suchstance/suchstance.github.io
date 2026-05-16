@@ -14,8 +14,6 @@ draft = false
 
 <img src="/TOKC.webp" alt="The Old King's Crown">
 
-<img src="https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__opengraph/img/CN-wLOteg6hzQwUbYNmS2QreXcc=/0x248:2964x1804/fit-in/1200x630/filters:strip_icc()/pic8937255.jpg" alt="The Old King's Crown">
-
 
 
 ## Description
