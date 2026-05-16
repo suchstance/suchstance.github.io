@@ -9,11 +9,18 @@
     <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Starstruck </title>
+      <link>http://localhost:1313/posts/starstruck/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/starstruck/</guid>
+      <description>&lt;h2 id=&#34;what-a-day&#34;&gt;What a Day&lt;/h2&gt;&#xA;&lt;p&gt;April 8 2024 is ingrained, burnt into my eyes. Witnessing a solar eclipse is easily one of the best experiences I have had&lt;/p&gt;&#xA;&lt;p&gt;2 years on, I was looking back at my photos and came across this oldie but goodie.&lt;/p&gt;&#xA;&lt;p&gt;Every time I look at it, it makes me smile.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Old King&#39;s Crown</title>
       <link>http://localhost:1313/posts/the-old-kings-crown/</link>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/the-old-kings-crown/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/TOKC.webp&#34; alt=&#34;The Old King&#39;s Crown&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Out-manoeuvre your rivals as you vie for control of an ancient, crumbling kingdom.&lt;/p&gt;&#xA;&lt;h4 id=&#34;first-played&#34;&gt;First Played&lt;/h4&gt;&#xA;&lt;p&gt;Date: 2026-04-25&lt;/p&gt;&#xA;&lt;p&gt;Player Number: 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;first-impressions&#34;&gt;First Impressions&lt;/h2&gt;&#xA;&lt;p&gt;Great game. I played very conservatively but I loved how meaty the action gets and how interactive it is. I am more curious about learning the strategy than winning at this.&lt;/p&gt;</description>
+      <description>&lt;img src=&#34;http://localhost:1313/TOKC.webp&#34; alt=&#34;The Old King&#39;s Crown&#34;&gt;&#xA;&lt;img src=&#34;https://cf.geekdo-images.com/q3Qp4L-rU3VOW6fMAFUJnQ__opengraph/img/CN-wLOteg6hzQwUbYNmS2QreXcc=/0x248:2964x1804/fit-in/1200x630/filters:strip_icc()/pic8937255.jpg&#34; alt=&#34;The Old King&#39;s Crown&#34;&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Out-manoeuvre your rivals as you vie for control of an ancient, crumbling kingdom.&lt;/p&gt;&#xA;&lt;h4 id=&#34;first-played&#34;&gt;First Played&lt;/h4&gt;&#xA;&lt;p&gt;Date: 2026-04-25&lt;/p&gt;&#xA;&lt;p&gt;Player Number: 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;first-impressions&#34;&gt;First Impressions&lt;/h2&gt;&#xA;&lt;p&gt;Great game. I played very conservatively but I loved how meaty the action gets and how interactive it is. I am more curious about learning the strategy than winning at this.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
