@@ -3,16 +3,20 @@
 <h1>Latest posts</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
-    {{ range first 3 (sort .Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        <div class="post">
-            <p>
-                <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-                {{ .Summary }}
-            </p>
-        </div>    
-    {{ end }}
+{{ $articles := where site.RegularPages "Section" "in" (slice "posts" "projects") }}
+{{ $articles = where $articles ".Params.private" "!=" true }}
+{{ range first 2 $articles.ByDate.Reverse }}
+    {{ $post := . }}
+    <div class="post">
+        <p>
+            <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
+            <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+            {{ with .Params.cover }}
+                <a href="{{ $post.Permalink }}"><img src="{{ . | relURL }}" alt="{{ $post.Title }}" style="max-width: 100%; height: auto;"></a>
+            {{ end }}
+            {{ .Summary }}
+        </p>
+    </div>
 {{ end }}
 </div>
 
@@ -20,13 +24,21 @@
 
 <div class="image-grid">
 {{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
+    {{ range first 2 (sort .Pages "Date" "desc") }}
+        {{ $page := . }}
+        {{ $image := "" }}
+        {{ with $page.Params.image }}{{ $image = $page.Resources.GetMatch . }}{{ end }}
+        {{ if not $image }}
+            {{ with $page.Resources.ByType "image" }}{{ $image = index . 0 }}{{ end }}
+        {{ end }}
+        <a href="{{ $page.Permalink }}" title="{{ $page.Title }}">
         {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
+            {{ $thumb := . }}
+            {{ if and (gt .Width 1600) (ne .MediaType.SubType "gif") }}
+                {{ $thumb = .Resize "1600x q90 Lanczos" }}
+            {{ end }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ $page.Title }}" class="img-responsive">
+        {{ end }}
         </a>
     {{ end }}
 {{ end }}

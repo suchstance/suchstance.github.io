@@ -23,5 +23,5 @@ theme = 'hugo-theme-console'
   url = "/photos/"
 
 [[params.navlinks]]
-  name = "i make"
+  name = "i build"
   url = "/projects/"

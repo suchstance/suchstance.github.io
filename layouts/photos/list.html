@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<div class="image-grid">
+{{ range .Pages.ByDate.Reverse }}
+    {{ $page := . }}
+    {{ $image := "" }}
+    {{ with $page.Params.image }}{{ $image = $page.Resources.GetMatch . }}{{ end }}
+    {{ if not $image }}
+        {{ with $page.Resources.ByType "image" }}{{ $image = index . 0 }}{{ end }}
+    {{ end }}
+    <a href="{{ $page.Permalink }}" title="{{ $page.Title }}">
+    {{ with $image }}
+        {{ $thumb := . }}
+        {{ if and (gt .Width 1600) (ne .MediaType.SubType "gif") }}
+            {{ $thumb = .Resize "1600x q90 Lanczos" }}
+        {{ end }}
+        <img src="{{ $thumb.RelPermalink }}" alt="{{ $page.Title }}" class="img-responsive">
+    {{ else }}
+        {{ $page.Title }}
+    {{ end }}
+    </a>
+{{ end }}
+</div>
+
+{{ end }}

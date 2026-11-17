@@ -9,6 +9,27 @@
     <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Acadian Light</title>
+      <link>http://localhost:1313/photos/acadia-sunrise/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/acadia-sunrise/</guid>
+      <description>&lt;figcaption&gt; First rays of morning sunlight hitting the North American continent &lt;/figcaption&gt;</description>
+    </item>
+    <item>
+      <title>Journaling That Stuck</title>
+      <link>http://localhost:1313/projects/journaling-that-stuck/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/journaling-that-stuck/</guid>
+      <description>&lt;style&gt;&#xA;  figcaption {&#xA;    text-align: center;&#xA;    margin-top: 8px;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;I have started and quit journaling more times than I can remember. I have an array of partially filled diaries, notes, accounts with Evernote and OneNote just to get things written down.&lt;/p&gt;&#xA;&lt;p&gt;I finally tried Obsidian and found so much success with it. Because, now I have a journal I can customize the hell out of and design it to the way  &lt;strong&gt;I&lt;/strong&gt; think.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moonstruck</title>
+      <link>http://localhost:1313/photos/lunar-eclipse/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photos/lunar-eclipse/</guid>
+      <description>&lt;figcaption&gt; Woke up at 12.15 am, drove an hour from San Mateo to Livermore, California and captured the blood moon. It&#39;s the first time I have experienced totality that lasted a whole hour - plenty of time to enjoy the moment, take photographs and get a midnight snack &lt;/figcaption&gt;</description>
+    </item>
+    <item>
       <title>Why I Have A Static Website</title>
       <link>http://localhost:1313/posts/why-i-have-a-static-website/</link>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
@@ -17,10 +38,10 @@
     </item>
     <item>
       <title>Starstruck</title>
-      <link>http://localhost:1313/posts/starstruck/</link>
+      <link>http://localhost:1313/photos/starstruck/</link>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/starstruck/</guid>
-      <description>&lt;h2 id=&#34;what-a-day&#34;&gt;What a Day&lt;/h2&gt; &lt;p&gt;April 8 2024 is ingrained, burnt into my eyes. Witnessing a solar eclipse is easily one of the best experiences I have had&lt;/p&gt;&#xA;&lt;p&gt;2 years on, I was looking back at my photos and came across this oldie but goodie.&lt;/p&gt;&#xA;&lt;p&gt;Every time I look at it, it makes me smile.&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/2024-april-solar-eclipse.png&#34; alt=&#34;Progression of 2024&#39;s Solar Eclipse&#34;&gt;</description>
+      <guid>http://localhost:1313/photos/starstruck/</guid>
+      <description>&lt;figcaption&gt; April 8 2024 is ingrained, burnt into my eyes. Witnessing a solar eclipse is easily one of the best experiences I have had &lt;/figcaption&gt;</description>
     </item>
     <item>
       <title>About</title>

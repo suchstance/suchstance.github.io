@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on a smattering of everything</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on a smattering of everything</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journaling That Stuck</title>
+      <link>http://localhost:1313/projects/journaling-that-stuck/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/journaling-that-stuck/</guid>
+      <description>&lt;style&gt;&#xA;  figcaption {&#xA;    text-align: center;&#xA;    margin-top: 8px;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;p&gt;I have started and quit journaling more times than I can remember. I have an array of partially filled diaries, notes, accounts with Evernote and OneNote just to get things written down.&lt;/p&gt;&#xA;&lt;p&gt;I finally tried Obsidian and found so much success with it. Because, now I have a journal I can customize the hell out of and design it to the way  &lt;strong&gt;I&lt;/strong&gt; think.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
