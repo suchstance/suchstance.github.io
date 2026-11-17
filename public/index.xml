@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>just a smattering of everything</title>
+    <title>a smattering of everything</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on just a smattering of everything</description>
+    <description>Recent content on a smattering of everything</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/posts/about/</link>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;p&gt;The simplest description of this site&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/david-rose.gif&#34; alt=&#34;description of image&#34; style=&#34;width: 100%; height: auto;&#34;&gt;</description>
+      <title>Why I Have A Static Website</title>
+      <link>http://localhost:1313/posts/why-i-have-a-static-website/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-i-have-a-static-website/</guid>
+      <description>&lt;p&gt;The World Wide Web was built as a way to manage information. An elegant design containing URLs, HTTP and HTML. That was all you needed to open any page on the internet, using a device that can access it. Much like our minds, we can hop between topics connected by links and browse down rabbit holes as much as we can. It&amp;rsquo;s simple enough for many people to build their own page and express themselves without bureaucracy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starstruck</title>
@@ -21,6 +21,13 @@
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/starstruck/</guid>
       <description>&lt;h2 id=&#34;what-a-day&#34;&gt;What a Day&lt;/h2&gt; &lt;p&gt;April 8 2024 is ingrained, burnt into my eyes. Witnessing a solar eclipse is easily one of the best experiences I have had&lt;/p&gt;&#xA;&lt;p&gt;2 years on, I was looking back at my photos and came across this oldie but goodie.&lt;/p&gt;&#xA;&lt;p&gt;Every time I look at it, it makes me smile.&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/2024-april-solar-eclipse.png&#34; alt=&#34;Progression of 2024&#39;s Solar Eclipse&#34;&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;img src=&#34;about_me.jpg&#34; alt=&#34;hi&#34; style=&#34;max-height: 600px; width: auto; height: 100%; float: left; margin: 0 20px 10px 0;&#34; title=&#34;hi&#34;&gt;&#xD;&#xA;&lt;p&gt;hi, i am suchitra.&lt;/p&gt;&#xA;&lt;p&gt;among many things, i am an amateur astronomer and i believe everyone must experience the wonder of looking at a sky with stars. i actively host and participate in star parties wherever i live as a way to build community.&lt;/p&gt;&#xA;&lt;p&gt;presently, i work in the biopharmaceutical industry building software that allow scientists to capture and reuse data.&#xA;previously, i was that said scientist. i loved biochemistry but got frustrated with systems that made it easier to repeat an entire experiment than searching and finding data that already existed.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

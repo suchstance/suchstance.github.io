@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on just a smattering of everything</title>
+    <title>Posts on a smattering of everything</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on just a smattering of everything</description>
+    <description>Recent content in Posts on a smattering of everything</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/posts/about/</link>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
-      <description>&lt;p&gt;The simplest description of this site&lt;/p&gt;&#xA;&lt;img src=&#34;http://localhost:1313/david-rose.gif&#34; alt=&#34;description of image&#34; style=&#34;width: 100%; height: auto;&#34;&gt;</description>
+      <title>Why I Have A Static Website</title>
+      <link>http://localhost:1313/posts/why-i-have-a-static-website/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-i-have-a-static-website/</guid>
+      <description>&lt;p&gt;The World Wide Web was built as a way to manage information. An elegant design containing URLs, HTTP and HTML. That was all you needed to open any page on the internet, using a device that can access it. Much like our minds, we can hop between topics connected by links and browse down rabbit holes as much as we can. It&amp;rsquo;s simple enough for many people to build their own page and express themselves without bureaucracy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starstruck</title>

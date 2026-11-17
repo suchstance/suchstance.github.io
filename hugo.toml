@@ -1,15 +1,27 @@
 baseURL = 'https://suchstance.github.io/'
 languageCode = 'en-us'
-title = 'just a smattering of everything'
+title = 'a smattering of everything'
 theme = 'hugo-theme-console'
 
 [markup.goldmark.renderer]
   unsafe = true
 
 [params]
-  description = "just a smattering of everything"
+  description = "a smattering of everything"
   animateStyle = "animate-fade-up"
 
 [[params.navlinks]]
-  name = "Posts"
+  name = "hi, it's me"
+  url = "/about/"
+
+[[params.navlinks]]
+  name = "i write"
   url = "/posts/"
+
+[[params.navlinks]]
+  name = "i click"
+  url = "/photos/"
+
+[[params.navlinks]]
+  name = "i make"
+  url = "/projects/"
